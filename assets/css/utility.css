@@ -1,0 +1,43 @@
+:root {
+  --primary-color: #0D1117;
+  --secondary-color:#FFFFFF;
+  
+ }
+.btn{
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius:4px;
+  cursor: pointer;
+}
+.d-flex{
+  display: flex;
+}
+.ju-con-center{
+  justify-content: center;
+}
+.jcontent-space-btween{
+  justify-content: space-between;
+}
+.align-item-center{
+  align-items: center;
+}
+.gap-20{
+  gap: 20px;
+}
+.gap-30{
+  gap: 30px;
+}
+.pt-pb-10px-0px{
+  padding: 10px 0px;
+}
+.flex{
+  flex: 1 1 0;
+}
+.m-top-60{
+  margin-top: 60px;
+}
+.m-t-15{
+  margin-top: 15px;
+}
